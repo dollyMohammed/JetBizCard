@@ -178,7 +178,7 @@ private fun CreatInfo() {
             style = MaterialTheme.typography.bodyMedium,
             modifier = Modifier.padding(3.dp)
         )
-
+/////////===========
 
     }
 }
